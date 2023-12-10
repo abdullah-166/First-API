@@ -1,0 +1,35 @@
+.serch-box{
+    padding: 50px 30px;
+    text-align: center;
+}
+.search-input{
+    padding: 10px 10px;
+}
+#search-btn{
+    padding: 5px 20px;
+    border: none;
+    background-color: rgb(8, 8, 172);
+    color: white;
+    text-align: right;
+    font-size: 15px;
+}
+.box{
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    margin: 5px;
+}
+#meal-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.box-img{
+    /* width: 280px;
+    height: 250px; */
+    width: 100%;
+    padding: 20px;
+}
